@@ -14,6 +14,9 @@ This project is a part of submission for Udacity's Robotics Software Nanodegree 
     - my_world
 - CMakeLists.txt
 - deploy.sh
+- humanoid_robot.jpg
+- mybuilding.jpg
+- myworld.jpg
 
 ## Execute the following steps in terminal from the project directory to run this project:
 ```
