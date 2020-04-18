@@ -14,9 +14,10 @@ This project is a part of submission for Udacity's Robotics Software Nanodegree 
     - my_world
 - CMakeLists.txt
 - deploy.sh
-- humanoid_robot.jpg
-- mybuilding.jpg
-- myworld.jpg
+- images
+    - humanoid_robot.jpg
+    - mybuilding.jpg
+    - myworld.jpg
 
 ## Execute the following steps in terminal from the project directory to run this project:
 ```
@@ -30,14 +31,14 @@ gazebo my_world
 ### Robot
 I have made a holonomic four wheel drive robot with human like structure for this project using Gazebo's Model Editor tool.
 
-![My Robot](humanoid_robot.jpg)
+![My Robot](images/humanoid_robot.jpg)
 
 ### Building
 I have made a building with multiple rooms, doors, windows and colors using Gazebo's Building Editor tool. 
 
-![My Building](mybuilding.jpg)
+![My Building](images/mybuilding.jpg)
 
 ### World
 I imported my building, 2 instances of my robot and cafe tables from Gazebo's online library in to my world.
 
-![My World](myworld.jpg)
+![My World](images/myworld.jpg)
