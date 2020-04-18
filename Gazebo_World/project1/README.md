@@ -33,7 +33,7 @@ I have made a holonomic four wheel drive robot with human like structure for thi
 ![My Robot](humanoid_robot.jpg)
 
 ### Building
-I have made a building with multiple rooms, doors, windows and colors. 
+I have made a building with multiple rooms, doors, windows and colors using Gazebo's Building Editor tool. 
 
 ![My Building](mybuilding.jpg)
 
