@@ -19,13 +19,9 @@ This project is a part of submission for Udacity's Robotics Software Nanodegree 
     - mybuilding.jpg
     - myworld.jpg
 
-## Execute the following steps in terminal from the project directory to run this project:
+## Execute the following command in terminal from the project directory to run this project:
 ```
-./deploy.sh
-cd build
-export GAZEBO_PLUGIN_PATH=$PWD
-cd ../world
-gazebo my_world
+source deploy.sh
 ```
 # Model
 ### Robot
