@@ -38,6 +38,6 @@ I have made a building with multiple rooms, doors, windows and colors.
 ![My Building](mybuilding.jpg)
 
 ### World
-I imported my building, 2 instances of my robot and cafe table from Gazebo's online libraray in to my world.
+I imported my building, 2 instances of my robot and cafe tables from Gazebo's online library in to my world.
 
 ![My World](myworld.jpg)
