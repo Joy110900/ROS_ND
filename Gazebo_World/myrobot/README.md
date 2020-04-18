@@ -1,4 +1,4 @@
-## Execute the following steps in terminal from the directory to run this project:
+#### Execute the following steps in terminal from the directory to run this project:
 ```
 ./deploy.sh
 cd build
