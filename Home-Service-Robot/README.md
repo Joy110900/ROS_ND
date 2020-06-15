@@ -83,3 +83,5 @@ $ ./home_service.sh
 $ cd /catkin_ws/src/scripts/
 $ ./(file name).sh
 ```
+
+[Watch Full Video](https://youtu.be/0P1MzECHfGA)
