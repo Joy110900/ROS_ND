@@ -96,4 +96,6 @@ $ source devel/setup.bash
 $ rosrun rqt_image_view rqt_image_view  
 ```
 - Now place the white ball at different positions in front of the robot and see if the robot is capable of chasing the ball!
+
+[Watch Full Video](https://youtu.be/8pYO60DTies)
 ---
