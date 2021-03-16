@@ -70,7 +70,12 @@ $ mkdir -p /catkin_ws/src
 $ cd /catkin/src
 $ catkin_init_workspace
 ```
-Copy all folders from cloned repository `ROS_ND/Home-Service-Robot/` to your catkin workspace `catkin_ws/src`
+Copy all folders from cloned repository `ROS_ND/Home-Service-Robot/` to your catkin workspace `catkin_ws/src` and then build your packages and source repository.
+```
+$ cd /catkin_ws/src
+$ catkin_make
+$ souce devel/setup.bash
+```
 
 - Launch the final project by executing home_service.sh. This will launch our robot in gazebo, rviz with our configuration file and all the nodes.
 ```
